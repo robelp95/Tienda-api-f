@@ -1,0 +1,48 @@
+{
+  "api": [
+    {
+      "Telefonos": [
+        {
+          "id": 1,
+          "title": "Alcatel",
+          "nombreProducto": "Alcatel",
+          "descripcionProducto": "telefono de gama media"
+        },
+        {
+          "id": 2,
+          "title": "Samsung",
+          "nombreProducto": "Samsung",
+          "descripcionProducto": "telefono de gama alta"
+        },
+        {
+          "id": 3,
+          "title": "Nokia",
+          "nombreProducto": "Nokia",
+          "descripcionProducto": "telefono de gama baja"
+        },
+        {
+          "id": 4,
+          "title": "Motorola",
+          "nombreProducto": "Motorola",
+          "descripcionProducto": "telefono de gama ultra baja"
+        }
+      ]
+    },
+    {
+      "Ropa": [
+        {
+          "id": 1,
+          "nombre": "pantalon"
+        }
+      ]
+    },
+    {
+      "Electrodomesticos": [
+        {
+          "id": 1,
+          "Nombre": "cafetera"
+        }
+      ]
+    }
+  ]
+}
