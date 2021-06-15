@@ -1,6 +1,6 @@
 import React from 'react'
 import {Hidden, Typography} from "@material-ui/core";
-import WithWidth from "@material-ui/core/WithWidth";
+import {WithWidth} from "@material-ui/core/withWidth";
 
 const Oculto = (props) => {
     return (
